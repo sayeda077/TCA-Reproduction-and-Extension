@@ -1,0 +1,148 @@
+/home/hpc/rlvl/rlvl174v/.conda/envs/TTA/lib/python3.9/site-packages/wandb/apis/public.py:3106: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import parse_version
+Unsupported operator aten::add encountered 26 time(s)
+Unsupported operator aten::div encountered 12 time(s)
+Unsupported operator aten::unflatten encountered 12 time(s)
+Unsupported operator aten::mul encountered 84 time(s)
+Unsupported operator aten::softmax encountered 12 time(s)
+Unsupported operator aten::sigmoid encountered 12 time(s)
+The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+visual.transformer.resblocks.0.attn.out_proj, visual.transformer.resblocks.1.attn.out_proj, visual.transformer.resblocks.10.attn.out_proj, visual.transformer.resblocks.11.attn.out_proj, visual.transformer.resblocks.2.attn.out_proj, visual.transformer.resblocks.3.attn.out_proj, visual.transformer.resblocks.4.attn.out_proj, visual.transformer.resblocks.5.attn.out_proj, visual.transformer.resblocks.6.attn.out_proj, visual.transformer.resblocks.7.attn.out_proj, visual.transformer.resblocks.8.attn.out_proj, visual.transformer.resblocks.9.attn.out_proj
+Unsupported operator aten::add encountered 26 time(s)
+Unsupported operator aten::div encountered 12 time(s)
+Unsupported operator aten::unflatten encountered 12 time(s)
+Unsupported operator aten::mul encountered 87 time(s)
+Unsupported operator aten::softmax encountered 12 time(s)
+Unsupported operator aten::sigmoid encountered 12 time(s)
+Unsupported operator aten::mean encountered 3 time(s)
+Unsupported operator aten::topk encountered 3 time(s)
+Unsupported operator aten::sub encountered 3 time(s)
+Unsupported operator aten::scatter encountered 3 time(s)
+Unsupported operator aten::sort encountered 3 time(s)
+Unsupported operator aten::sum encountered 3 time(s)
+The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+visual.transformer.resblocks.0.attn.out_proj, visual.transformer.resblocks.1.attn.out_proj, visual.transformer.resblocks.10.attn.out_proj, visual.transformer.resblocks.11.attn.out_proj, visual.transformer.resblocks.2.attn.out_proj, visual.transformer.resblocks.3.attn.out_proj, visual.transformer.resblocks.4.attn.out_proj, visual.transformer.resblocks.5.attn.out_proj, visual.transformer.resblocks.6.attn.out_proj, visual.transformer.resblocks.7.attn.out_proj, visual.transformer.resblocks.8.attn.out_proj, visual.transformer.resblocks.9.attn.out_proj
+Unsupported operator aten::add encountered 26 time(s)
+Unsupported operator aten::div encountered 33 time(s)
+Unsupported operator aten::mul encountered 75 time(s)
+Unsupported operator aten::softmax encountered 12 time(s)
+Unsupported operator aten::sigmoid encountered 12 time(s)
+Unsupported operator aten::sum encountered 3 time(s)
+Unsupported operator aten::linalg_vector_norm encountered 3 time(s)
+Unsupported operator aten::fill_ encountered 3 time(s)
+Unsupported operator aten::argsort encountered 3 time(s)
+Unsupported operator aten::sort encountered 3 time(s)
+Unsupported operator aten::ones_like encountered 1 time(s)
+Unsupported operator aten::sub encountered 6 time(s)
+Unsupported operator aten::scatter_reduce encountered 6 time(s)
+The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+visual.transformer.resblocks.0.attn.out_proj, visual.transformer.resblocks.1.attn.out_proj, visual.transformer.resblocks.10.attn.out_proj, visual.transformer.resblocks.11.attn.out_proj, visual.transformer.resblocks.2.attn.out_proj, visual.transformer.resblocks.3.attn.out_proj, visual.transformer.resblocks.4.attn.out_proj, visual.transformer.resblocks.5.attn.out_proj, visual.transformer.resblocks.6.attn.out_proj, visual.transformer.resblocks.7.attn.out_proj, visual.transformer.resblocks.8.attn.out_proj, visual.transformer.resblocks.9.attn.out_proj
+Unsupported operator aten::add encountered 26 time(s)
+Unsupported operator aten::div encountered 12 time(s)
+Unsupported operator aten::unflatten encountered 12 time(s)
+Unsupported operator aten::mul encountered 87 time(s)
+Unsupported operator aten::softmax encountered 12 time(s)
+Unsupported operator aten::sigmoid encountered 12 time(s)
+Unsupported operator aten::mean encountered 3 time(s)
+Unsupported operator aten::topk encountered 3 time(s)
+Unsupported operator aten::sub encountered 3 time(s)
+Unsupported operator aten::scatter encountered 3 time(s)
+Unsupported operator aten::sort encountered 3 time(s)
+Unsupported operator aten::sum encountered 3 time(s)
+The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+visual.transformer.resblocks.0.attn.out_proj, visual.transformer.resblocks.1.attn.out_proj, visual.transformer.resblocks.10.attn.out_proj, visual.transformer.resblocks.11.attn.out_proj, visual.transformer.resblocks.2.attn.out_proj, visual.transformer.resblocks.3.attn.out_proj, visual.transformer.resblocks.4.attn.out_proj, visual.transformer.resblocks.5.attn.out_proj, visual.transformer.resblocks.6.attn.out_proj, visual.transformer.resblocks.7.attn.out_proj, visual.transformer.resblocks.8.attn.out_proj, visual.transformer.resblocks.9.attn.out_proj
+Unsupported operator aten::add encountered 26 time(s)
+Unsupported operator aten::div encountered 12 time(s)
+Unsupported operator aten::unflatten encountered 12 time(s)
+Unsupported operator aten::mul encountered 87 time(s)
+Unsupported operator aten::softmax encountered 12 time(s)
+Unsupported operator aten::sigmoid encountered 12 time(s)
+Unsupported operator aten::mean encountered 3 time(s)
+Unsupported operator aten::topk encountered 3 time(s)
+Unsupported operator aten::sub encountered 3 time(s)
+Unsupported operator aten::scatter encountered 3 time(s)
+Unsupported operator aten::sort encountered 3 time(s)
+Unsupported operator aten::sum encountered 3 time(s)
+The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+visual.transformer.resblocks.0.attn.out_proj, visual.transformer.resblocks.1.attn.out_proj, visual.transformer.resblocks.10.attn.out_proj, visual.transformer.resblocks.11.attn.out_proj, visual.transformer.resblocks.2.attn.out_proj, visual.transformer.resblocks.3.attn.out_proj, visual.transformer.resblocks.4.attn.out_proj, visual.transformer.resblocks.5.attn.out_proj, visual.transformer.resblocks.6.attn.out_proj, visual.transformer.resblocks.7.attn.out_proj, visual.transformer.resblocks.8.attn.out_proj, visual.transformer.resblocks.9.attn.out_proj
+Unsupported operator aten::add encountered 26 time(s)
+Unsupported operator aten::div encountered 24 time(s)
+Unsupported operator aten::unflatten encountered 12 time(s)
+Unsupported operator aten::mul encountered 114 time(s)
+Unsupported operator aten::softmax encountered 12 time(s)
+Unsupported operator aten::sigmoid encountered 12 time(s)
+Unsupported operator aten::sub encountered 18 time(s)
+Unsupported operator aten::mean encountered 3 time(s)
+Unsupported operator aten::rsub encountered 3 time(s)
+Unsupported operator aten::topk encountered 6 time(s)
+Unsupported operator aten::cdist encountered 3 time(s)
+Unsupported operator aten::argmin encountered 3 time(s)
+Unsupported operator aten::linalg_vector_norm encountered 12 time(s)
+Unsupported operator aten::reciprocal encountered 12 time(s)
+Unsupported operator aten::sum encountered 27 time(s)
+Unsupported operator aten::scatter encountered 3 time(s)
+Unsupported operator aten::sort encountered 3 time(s)
+The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+visual.transformer.resblocks.0.attn.out_proj, visual.transformer.resblocks.1.attn.out_proj, visual.transformer.resblocks.10.attn.out_proj, visual.transformer.resblocks.11.attn.out_proj, visual.transformer.resblocks.2.attn.out_proj, visual.transformer.resblocks.3.attn.out_proj, visual.transformer.resblocks.4.attn.out_proj, visual.transformer.resblocks.5.attn.out_proj, visual.transformer.resblocks.6.attn.out_proj, visual.transformer.resblocks.7.attn.out_proj, visual.transformer.resblocks.8.attn.out_proj, visual.transformer.resblocks.9.attn.out_proj
+Unsupported operator aten::add encountered 26 time(s)
+Unsupported operator aten::div encountered 24 time(s)
+Unsupported operator aten::unflatten encountered 12 time(s)
+Unsupported operator aten::mul encountered 114 time(s)
+Unsupported operator aten::softmax encountered 12 time(s)
+Unsupported operator aten::sigmoid encountered 12 time(s)
+Unsupported operator aten::sub encountered 18 time(s)
+Unsupported operator aten::mean encountered 3 time(s)
+Unsupported operator aten::rsub encountered 3 time(s)
+Unsupported operator aten::topk encountered 6 time(s)
+Unsupported operator aten::cdist encountered 3 time(s)
+Unsupported operator aten::argmin encountered 3 time(s)
+Unsupported operator aten::linalg_vector_norm encountered 12 time(s)
+Unsupported operator aten::reciprocal encountered 12 time(s)
+Unsupported operator aten::sum encountered 27 time(s)
+Unsupported operator aten::scatter encountered 3 time(s)
+Unsupported operator aten::sort encountered 3 time(s)
+The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+visual.transformer.resblocks.0.attn.out_proj, visual.transformer.resblocks.1.attn.out_proj, visual.transformer.resblocks.10.attn.out_proj, visual.transformer.resblocks.11.attn.out_proj, visual.transformer.resblocks.2.attn.out_proj, visual.transformer.resblocks.3.attn.out_proj, visual.transformer.resblocks.4.attn.out_proj, visual.transformer.resblocks.5.attn.out_proj, visual.transformer.resblocks.6.attn.out_proj, visual.transformer.resblocks.7.attn.out_proj, visual.transformer.resblocks.8.attn.out_proj, visual.transformer.resblocks.9.attn.out_proj
+Unsupported operator aten::add encountered 26 time(s)
+Unsupported operator aten::div encountered 24 time(s)
+Unsupported operator aten::unflatten encountered 12 time(s)
+Unsupported operator aten::mul encountered 114 time(s)
+Unsupported operator aten::softmax encountered 12 time(s)
+Unsupported operator aten::sigmoid encountered 12 time(s)
+Unsupported operator aten::sub encountered 18 time(s)
+Unsupported operator aten::mean encountered 3 time(s)
+Unsupported operator aten::rsub encountered 3 time(s)
+Unsupported operator aten::topk encountered 6 time(s)
+Unsupported operator aten::cdist encountered 3 time(s)
+Unsupported operator aten::argmin encountered 3 time(s)
+Unsupported operator aten::linalg_vector_norm encountered 12 time(s)
+Unsupported operator aten::reciprocal encountered 12 time(s)
+Unsupported operator aten::sum encountered 27 time(s)
+Unsupported operator aten::scatter encountered 3 time(s)
+Unsupported operator aten::sort encountered 3 time(s)
+The following submodules of the model were never called during the trace of the graph. They may be unused, or they were accessed by direct calls to .forward() or via other python methods. In the latter case they will have zeros for statistics, though their statistics will still contribute to their parent calling module.
+visual.transformer.resblocks.0.attn.out_proj, visual.transformer.resblocks.1.attn.out_proj, visual.transformer.resblocks.10.attn.out_proj, visual.transformer.resblocks.11.attn.out_proj, visual.transformer.resblocks.2.attn.out_proj, visual.transformer.resblocks.3.attn.out_proj, visual.transformer.resblocks.4.attn.out_proj, visual.transformer.resblocks.5.attn.out_proj, visual.transformer.resblocks.6.attn.out_proj, visual.transformer.resblocks.7.attn.out_proj, visual.transformer.resblocks.8.attn.out_proj, visual.transformer.resblocks.9.attn.out_proj
+EViT-0.0    : 17.582 GFLOPs
+Unsupported ops: Counter({'aten::mul': 84, 'aten::add': 26, 'aten::div': 12, 'aten::unflatten': 12, 'aten::softmax': 12, 'aten::sigmoid': 12})
+
+EViT-0.1    : 15.412 GFLOPs
+Unsupported ops: Counter({'aten::mul': 87, 'aten::add': 26, 'aten::div': 12, 'aten::unflatten': 12, 'aten::softmax': 12, 'aten::sigmoid': 12, 'aten::mean': 3, 'aten::topk': 3, 'aten::sub': 3, 'aten::scatter': 3, 'aten::sort': 3, 'aten::sum': 3})
+
+ToME-0.1    : 15.304 GFLOPs
+Unsupported ops: Counter({'aten::mul': 75, 'aten::div': 33, 'aten::add': 26, 'aten::softmax': 12, 'aten::sigmoid': 12, 'aten::sub': 6, 'aten::scatter_reduce': 6, 'aten::sum': 3, 'aten::linalg_vector_norm': 3, 'aten::fill_': 3, 'aten::argsort': 3, 'aten::sort': 3, 'aten::ones_like': 1})
+
+EViT-0.3    : 11.623 GFLOPs
+Unsupported ops: Counter({'aten::mul': 87, 'aten::add': 26, 'aten::div': 12, 'aten::unflatten': 12, 'aten::softmax': 12, 'aten::sigmoid': 12, 'aten::mean': 3, 'aten::topk': 3, 'aten::sub': 3, 'aten::scatter': 3, 'aten::sort': 3, 'aten::sum': 3})
+
+EViT-0.5    : 8.829 GFLOPs
+Unsupported ops: Counter({'aten::mul': 87, 'aten::add': 26, 'aten::div': 12, 'aten::unflatten': 12, 'aten::softmax': 12, 'aten::sigmoid': 12, 'aten::mean': 3, 'aten::topk': 3, 'aten::sub': 3, 'aten::scatter': 3, 'aten::sort': 3, 'aten::sum': 3})
+
+Ours-0.035  : 15.710 GFLOPs
+Unsupported ops: Counter({'aten::mul': 114, 'aten::sum': 27, 'aten::add': 26, 'aten::div': 24, 'aten::sub': 18, 'aten::unflatten': 12, 'aten::softmax': 12, 'aten::sigmoid': 12, 'aten::linalg_vector_norm': 12, 'aten::reciprocal': 12, 'aten::topk': 6, 'aten::mean': 3, 'aten::rsub': 3, 'aten::cdist': 3, 'aten::argmin': 3, 'aten::scatter': 3, 'aten::sort': 3})
+
+Ours-0.105  : 11.683 GFLOPs
+Unsupported ops: Counter({'aten::mul': 114, 'aten::sum': 27, 'aten::add': 26, 'aten::div': 24, 'aten::sub': 18, 'aten::unflatten': 12, 'aten::softmax': 12, 'aten::sigmoid': 12, 'aten::linalg_vector_norm': 12, 'aten::reciprocal': 12, 'aten::topk': 6, 'aten::mean': 3, 'aten::rsub': 3, 'aten::cdist': 3, 'aten::argmin': 3, 'aten::scatter': 3, 'aten::sort': 3})
+
+Ours-0.175  : 8.826 GFLOPs
+Unsupported ops: Counter({'aten::mul': 114, 'aten::sum': 27, 'aten::add': 26, 'aten::div': 24, 'aten::sub': 18, 'aten::unflatten': 12, 'aten::softmax': 12, 'aten::sigmoid': 12, 'aten::linalg_vector_norm': 12, 'aten::reciprocal': 12, 'aten::topk': 6, 'aten::mean': 3, 'aten::rsub': 3, 'aten::cdist': 3, 'aten::argmin': 3, 'aten::scatter': 3, 'aten::sort': 3})
+
