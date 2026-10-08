@@ -2,8 +2,6 @@
 
 This repository contains a reproduction and experimental extension of **Token Condensation as Adaptation (TCA)** for efficient test-time adaptation of vision-language models.
 
-The project was completed as part of the **AI Systems Project at Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)**.
-
 ## Project Overview
 
 This project has two main parts:
